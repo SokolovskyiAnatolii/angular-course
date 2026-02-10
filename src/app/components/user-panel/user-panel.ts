@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './user-panel.html',
   styleUrl: './user-panel.scss',
 })
-export class UserPanel {
-
-}
+export class UserPanelComponent {}

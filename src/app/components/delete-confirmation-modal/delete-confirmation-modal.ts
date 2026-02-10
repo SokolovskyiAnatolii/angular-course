@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './delete-confirmation-modal.html',
   styleUrl: './delete-confirmation-modal.scss',
 })
-export class DeleteConfirmationModal {
-
-}
+export class DeleteConfirmationModalComponent {}

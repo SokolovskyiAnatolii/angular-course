@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './sign-in-modal.html',
   styleUrl: './sign-in-modal.scss',
 })
-export class SignInModal {
-
-}
+export class SignInModalComponent {}

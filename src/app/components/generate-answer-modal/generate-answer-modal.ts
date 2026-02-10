@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './generate-answer-modal.html',
   styleUrl: './generate-answer-modal.scss',
 })
-export class GenerateAnswerModal {
-
-}
+export class GenerateAnswerModalComponent {}

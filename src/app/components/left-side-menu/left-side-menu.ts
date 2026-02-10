@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './left-side-menu.html',
   styleUrl: './left-side-menu.scss',
 })
-export class LeftSideMenu {
-
-}
+export class LeftSideMenuComponent {}
